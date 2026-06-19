@@ -2,7 +2,7 @@
 
 # DLSU Logo in a DVD-like screensaver
 
-- [Read the documentation for project](docs/info.md)
+<img width="542" height="672" alt="image" src="https://github.com/user-attachments/assets/ecdb1da7-9783-432e-bee7-61fa911e4eb8" />
 
 ## What is Tiny Tapeout?
 
