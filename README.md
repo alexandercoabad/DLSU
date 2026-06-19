@@ -5,11 +5,15 @@ Click this link to see the VGA Playground showing the DLSU logo in a DVD-like sc
 
 <img width="542" height="672" alt="image" src="https://github.com/user-attachments/assets/ecdb1da7-9783-432e-bee7-61fa911e4eb8" />
 
-## What is Tiny Tapeout?
+<img width="1888" height="1280" alt="image" src="https://github.com/user-attachments/assets/d85825f2-ded6-49e1-b6f6-873ad540039a" />
 
-Tiny Tapeout is an educational project that aims to make it easier and cheaper than ever to get your digital and analog designs manufactured on a real chip.
 
-To learn more and get started, visit https://tinytapeout.com.
+
+## Link to 3D viewer
+https://gds-viewer.tinytapeout.com/?model=https://alexandercoabad.github.io/DLSU/tinytapeout.oas&pdk=sky130A
+
+
+
 
 ## Set up your Verilog project
 
