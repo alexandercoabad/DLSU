@@ -1,6 +1,7 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
 # DLSU Logo in a DVD-like screensaver
+Click this link to see the VGA Playground showing the DLSU logo in a DVD-like screensaver: https://vga-playground.com/?repo=https://github.com/alexandercoabad/DLSU
 
 <img width="542" height="672" alt="image" src="https://github.com/user-attachments/assets/ecdb1da7-9783-432e-bee7-61fa911e4eb8" />
 
